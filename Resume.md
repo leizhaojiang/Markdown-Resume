@@ -1,55 +1,138 @@
  <center>
-     <h1>XXX</h1>
+     <h1>个人简历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18093442119
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             leizhaojiang@163.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://github.com/leizhaojiang/advanced-programming-note">学习笔记</a>
          </span>
      </div>
  </center>
 
+
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，1993 年出生
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 工作经验：4 年
+ - 期望薪资：20 k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，陇东学院，化学工程与工艺，2013.9~2017.7
+- 大学期间自学Java编程语言，毕业后又进行了系统的培训
+
+## <img src="assets/tools-solid.svg" width="30px"> 技术栈
+
+- 熟练使用`Java`、`Scala`等编程语言进行开发，熟悉`Python`、`Shell`等脚本语言
+- 掌握`Spring`、`Spring Boot`、`Spring Cloud`、`Spring-Data-Jpa`、`Mybatis`、`ShardingSphere`、`Spark`等框架
+- 熟练掌握`MySql`及其`Sql`优化，熟练使用`ShardingSphere`框架进行分库分表
+- 熟练使用`Kafka`、`Redis`、`Debezium`等中间件
+- 熟练运用`Docker`，`K8s`等技术
+- 熟练操作Linux服务器
+- 熟悉常用的设计模式
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **思特沃克软件技术(西安)有限公司**    													     **2022.03~2022.11**
 
-   负责 XXX
+   > **部门：**Tech 部门
+   >
+   > **职位：**Java软件开发工程师
+   >
+   > **职责：**负责软件开发
+   
+- **北京思创祥云科技有限责任公司**                                                               **2020.09~2022.03**
+
+   > **部门：**西安软件开发部
+   >
+   > **职位：**Java软件开发工程师
+   >
+   > **职责：**负责软件开发
+   
+- **中软国际股份有限公司**                                                                             **2021.09~2022.03**
+
+   > **部门：**数据中台
+   >
+   > **职位：**Java软件开发工程师
+   >
+   > **职责：**负责软件开发
+   
+- **大成广德有限责任公司**                                                                             **2018.03~2021.09**
+
+   > **部门：**软件开发部
+   >
+   > **职位：**Java软件开发工程师
+   >
+   > **职责：**负责软件开发
+   
+   
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **DDM（Distributed Database Middleware）**
 
-  *使用到的技术*
+  
 
+
+
+- **陕西信合人力资源系统**
+
+  
+
+  **项目架构：**使用`Jdk1.8`、`SpringBoot`、`SpringCloud`搭建的分布式微服务系统，使用普元`Devops`构建docker镜像，云平台进行部署。
+  
+  
+  
+  **功能介绍：**功能涵盖机构及人员信息查询、机构管理、人员管理、干部管理、薪酬管理、社保管理、档案管理、辅助功能等功能模块。 
+  
+  
+  
+  **项目职责：**本人在项目中主要负责功能开发，独立完成人员基本信息变更、机构变更、薪酬计算等模块儿的开发。解决了因基础镜像的版本而导致富文本、及导出`Word`中存在乱码的问题。
+  
+  
+  
   使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  
+  
+  
+- **`Manas`人工智能交互平台**
+
+  
+  
+  **项目架构：**`jupyter notebook`集成`Hadoop`、`PySpark`、`Tensorflow`等大数据框架
+  
+  
+  
+  **功能介绍：**在线交互式笔记本、支持`scala`、`python`、`shell`等语言在线编辑、及运行。可创建`PySpark`、`SparkScala`、`pytorch`等引擎的模型训练。
+  
+  
+  
+  **项目职责：**
+  
+  
+  
+  完成项目集成及`Tensorflow GPU`的工作，顺利在生产环境上线。
+  
+  配合完成引擎的镜像瘦身，成功将8 G左右的镜像瘦身到不到200 M的大小。
+  
+  胜任项目接口人工作，顺利对接贵州、德国、厄瓜多尔等多个生产环境，定位及解决环境问题。
+  
+  
+  
+## 自我评价
+
+​       本人学习能力强，具备较强的逻辑思维和判断能力，对事情认真负责。具有良好的团队协调和合作能力，且不乏独立性。开发中遇到疑难问题，首先会从对应官网找寻答案，往往能得到有效的答案。在工作中也时常能给其他人以有效帮助。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
